@@ -1,0 +1,14 @@
+{
+  "name": "svg-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chetan Bohra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
